@@ -35,5 +35,3 @@ Thumbs.db
 # Database migrations (if you use goose, the binary is usually not needed)
 migrations/*.go  # если вы используете goose как библиотеку, могут быть .go файлы, но обычно их нет
 
-# Built binary
-api
